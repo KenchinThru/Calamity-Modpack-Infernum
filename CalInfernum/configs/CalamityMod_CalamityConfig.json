@@ -1,0 +1,13 @@
+{
+  "MeterPosLock": false,
+  "StealthMeterPosX": 50.3125,
+  "StealthMeterPosY": 40.931614,
+  "ChargeMeterPosX": 50.104168,
+  "ChargeMeterPosY": 57.978195,
+  "TownNPCsSpawnAtNight": true,
+  "TownNPCSpawnRateMultiplier": 2,
+  "RageMeterPosX": 31.197916,
+  "RageMeterPosY": 3.9643211,
+  "AdrenalineMeterPosX": 39.21875,
+  "AdrenalineMeterPosY": 4.0634294
+}

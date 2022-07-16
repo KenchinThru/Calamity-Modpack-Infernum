@@ -1,0 +1,8 @@
+{
+  "SuperVault": true,
+  "ExtraToolSpeed": 0.0,
+  "ImproveTileSpeedAndTileRange": true,
+  "BanTombstone": true,
+  "TownNPCSpawnInNight": true,
+  "NoCD_FishermanQuest": true
+}
